@@ -11,8 +11,7 @@ export class MyrangesliderComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void{
-    
+  ngOnInit(): void {
     get("https://d3js.org/d3.v5.min.js", () => {
       console.log("d3js loaded");
       get("https://unpkg.com/data-driven-range-slider@1.0.1/index.js", () => {
