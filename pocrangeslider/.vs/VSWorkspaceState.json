@@ -5,7 +5,8 @@
     "\\src\\app",
     "\\src\\app\\myrangeslider",
     "\\src\\assets",
-    "\\src\\assets\\js"
+    "\\src\\assets\\js",
+    "\\src\\environments"
   ],
   "SelectedNode": "\\src\\app\\myrangeslider\\myrangeslider.component.ts",
   "PreviewInSolutionExplorer": false
